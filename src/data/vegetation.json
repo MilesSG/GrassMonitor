@@ -1,0 +1,54 @@
+{
+  "vegetationCoverage": [
+    {
+      "date": "2024-01",
+      "coverage": 85.2,
+      "biodiversity": {
+        "shannonIndex": 2.8,
+        "speciesCount": 45
+      },
+      "dominantSpecies": ["Stipa grandis", "Leymus chinensis", "Artemisia frigida"]
+    },
+    {
+      "date": "2024-02",
+      "coverage": 82.5,
+      "biodiversity": {
+        "shannonIndex": 2.6,
+        "speciesCount": 42
+      },
+      "dominantSpecies": ["Stipa grandis", "Leymus chinensis", "Cleistogenes squarrosa"]
+    },
+    {
+      "date": "2024-03",
+      "coverage": 88.7,
+      "biodiversity": {
+        "shannonIndex": 3.1,
+        "speciesCount": 48
+      },
+      "dominantSpecies": ["Stipa grandis", "Leymus chinensis", "Agropyron cristatum"]
+    }
+  ],
+  "locations": [
+    {
+      "id": "A1",
+      "lat": 43.5532,
+      "lng": 116.6789,
+      "coverage": 87.5,
+      "biodiversityIndex": 2.9
+    },
+    {
+      "id": "A2",
+      "lat": 43.5632,
+      "lng": 116.6889,
+      "coverage": 82.3,
+      "biodiversityIndex": 2.7
+    },
+    {
+      "id": "A3",
+      "lat": 43.5732,
+      "lng": 116.6989,
+      "coverage": 90.1,
+      "biodiversityIndex": 3.2
+    }
+  ]
+} 

@@ -1,0 +1,50 @@
+{
+  "pestDistribution": [
+    {
+      "timestamp": "2024-03-15T00:00:00",
+      "hotspots": [
+        {
+          "id": "HS001",
+          "location": { "lat": 43.5532, "lng": 116.6789 },
+          "severity": 0.8,
+          "type": "grasshopper",
+          "affectedArea": 120
+        },
+        {
+          "id": "HS002",
+          "location": { "lat": 43.5632, "lng": 116.6889 },
+          "severity": 0.4,
+          "type": "leafrust",
+          "affectedArea": 85
+        },
+        {
+          "id": "HS003",
+          "location": { "lat": 43.5732, "lng": 116.6989 },
+          "severity": 0.6,
+          "type": "aphid",
+          "affectedArea": 95
+        }
+      ]
+    }
+  ],
+  "pestTypes": [
+    {
+      "name": "grasshopper",
+      "scientificName": "Locusta migratoria",
+      "threatLevel": "high",
+      "controlMethods": ["biological", "chemical"]
+    },
+    {
+      "name": "leafrust",
+      "scientificName": "Puccinia graminis",
+      "threatLevel": "medium",
+      "controlMethods": ["fungicide", "resistant varieties"]
+    },
+    {
+      "name": "aphid",
+      "scientificName": "Rhopalosiphum padi",
+      "threatLevel": "medium",
+      "controlMethods": ["natural predators", "insecticide"]
+    }
+  ]
+} 
