@@ -111,12 +111,7 @@ grassmonitor/
 
 [MIT License](LICENSE)
 
-## 联系方式 📧
 
-如有任何问题或建议，请通过以下方式联系我们：
-
-- 项目 Issues
-- Email: your.email@example.com
 
 ## 致谢 🙏
 
